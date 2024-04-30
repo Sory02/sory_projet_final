@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 561d5724799511e44993c04705813f7a
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Level 1.unity
+    guid: 2371c991f03cf794493dc1f38812f20f
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Level 2.unity
+    guid: d1688ba4fc2a82140a8a9a96b826fcb4
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Level 3.unity
+    guid: 8fe5185e63a35754f99fd05001a7032f
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Level 4.unity
+    guid: ce955e6980e711a46848660e3835445c
+  - enabled: 1
+    path: Assets/Scenes/Scenes/Level 5.unity
+    guid: 4212040cbf2357c4daa882b65e66ff63
+  - enabled: 1
+    path: Assets/Projet_final_Sory_Diallo.unity
+    guid: f275aa72ddd621842be7b7edc7a15b34
+  m_configObjects: {}
